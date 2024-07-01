@@ -90,20 +90,20 @@ export const testimonials = [
     name: 'Olivia Thompson',
     rating: 4.5,
     img: '/avatar-2.png',
-    message: 'Nina Interiors transforms our home with pure artistry! The quality of their furniture is simply unmatched.'
+    message: 'Vron Interiors transforms our home with pure artistry! The quality of their furniture is simply unmatched.'
   },
   {
     id: 2,
     name: 'Jacob Martinez',
     rating: 5,
     img: '/avatar-1.png',
-    message: 'Every piece from Nina Interiors exudes luxury and comfort. It’s more than furniture, it’s a lifestyle'
+    message: 'Every piece from Vron Interiors exudes luxury and comfort. It’s more than furniture, it’s a lifestyle'
   },
   {
     id: 3,
     name: 'Sophia Williams',
     rating:3.5,
     img: '/avatar-2.png',
-    message: 'Elegance meets function in every creation from Nina Interiors. Truly the epitome of sophisticated living'
+    message: 'Elegance meets function in every creation from Vron Interiors. Truly the epitome of sophisticated living'
   },
 ]
